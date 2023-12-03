@@ -1,4 +1,4 @@
-# PolyHack 2023 Website (No Source Code, Demo Only)
+# PolyHack 2023 Website and System (No Source Code, Demo Only)
 PolyHack is a global student-led hackathon and ideathon competition jointly organised by PolyHack, Knowledge Transfer and Entrepreneurship Office (KTEO) at The Hong Kong Polytechnic University (PolyU), and Hong Kong Science and Technology Parks Corporation (HKSTP). The 2-week competition brought together more than 700 talented individuals from over 80 regions, fostering innovation, collaboration, and technological advancements on an international scale.
 
 Learn more about PolyHack 2023 in this [press release](https://www.polyu.edu.hk/en/media/media-releases/2023/0707_global-competition-polyhack-2023-concludes-with-outstanding-innovations-and-collaboration/) and our [hackathon website](https://www.polyhack2023.com/) that me and my team built.
