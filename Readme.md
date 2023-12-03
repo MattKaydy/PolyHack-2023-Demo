@@ -24,8 +24,6 @@ My talented logistic team members:
 ![Team Members](./Screenshots/team.png)
 
 
-
-
 ## Website Architecture
 
 ### Vision
@@ -133,12 +131,12 @@ Total Unique Visitors:
 
 Number of Backend API Requests:
 
-![Backend Requests](./Screenshots/BackendRequests.png)
+![Backend Requests](./Screenshots/backendRequests.png)
 
 
 On the night of the final submission deadline (June 18th),  there are a total of **1,164** backend API requests from 2300 - 0000 as team members are rushing to submit their project before the deadline.
 
-![Backend Requests](./Screenshots/BackendRequests2.png)
+![Backend Requests](./Screenshots/backendRequests2.png)
 
 ## Final Thoughts
 
