@@ -111,7 +111,7 @@ This allows participants to book online Zoom consultations with our panel of 3 m
 ![Booking Page](./Screenshots/Mentorship2.png)
 ![Booking Page](./Screenshots/EmailBooking.png)
 
-### Judge's Area
+### Judging Portal
 The judging portal is a secret portal only accesible by PolyHack staff and judges. It provides a platform for them to download each group's submission - including code, business plan, pitch deck, and grade the submissions for our system to automatically calculate scores and generate results.
 
 Specific details on the judging procedures cannot be shared in public, but here is a snippet of the judging portal:
