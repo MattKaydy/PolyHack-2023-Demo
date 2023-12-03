@@ -49,6 +49,8 @@ Despite the visual part of the front end is built with the no-code tool Editor X
 
 Our database is maintained by the Wix Data service. Only the back end have the ability to query, add, remove, modify data directly from the database. Each modules in the backend API functions perform input validations to prevent sabotage.
 
+This hybrid approach of 20% no-code (for the visual part of the website) and 80% code (for the technical parts of the website) is adopted so as to allow my team members to rapidly build and modify the design parts of the website, without the need of front-end coding knowledge (e.g CSS). Wix's servers also allow us to provide the most reliable service to our participants, especially during times of network traffic surge, such as submission deadline dates.
+
 ### High-Level Architecture
 
 ![Website Architecture Diagram](./Screenshots/diagram.png)
